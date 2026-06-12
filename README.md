@@ -25,7 +25,7 @@ The project uses the SMS Spam Collection Dataset.
 8. Tested the model using custom messages.
 
 ## Result
-The model achieved approximately XX% accuracy on the test dataset.
+The model achieved approximately 97% accuracy on the test dataset.
 
 ## Future Improvements
 - Try other ML algorithms such as Logistic Regression and SVM.
